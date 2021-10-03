@@ -1,0 +1,34 @@
+table {
+
+border: 3px solid #6495ed;
+width: 70%;
+margin: auto;
+background-color:#white;
+
+}
+h1{
+   font-family: Arial;
+   font-size: 2em;
+   text-align: center;
+   margin: 20px;
+
+}
+th
+{
+    font-family: verdana;
+    font-size: 2.0em;
+    text-align:center;
+    border: 1px solid #000099;
+    background-color: #d0e3fa;
+
+}
+td
+{
+
+background-color: #ffffff;
+    font-size: .90em;
+    text-align: center;
+    padding: 5px;
+    border: 1px solid #6495ed;
+
+}
